@@ -176,8 +176,8 @@ Contributions are welcome! Here's how:
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Website: [yourwebsite.com](https://yourwebsite.com)
+- GitHub: [@yourusername](https://github.com/Manikanta-04))
+- Website: [yourwebsite.com]( https://manikanta-04.github.io/modern-calculator/)
 
 ## 🙏 Acknowledgments
 
